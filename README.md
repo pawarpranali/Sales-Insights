@@ -27,6 +27,6 @@ This dashboard has some data fields that might be useful for taking apt business
 
 ## Screenshot
 
-![App Screenshot](https://drive.google.com/file/d/1-IfUsiuGSIKF0nqE6dUQI0XqLb0_SET9/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1-IfUsiuGSIKF0nqE6dUQI0XqLb0_SET9/view)
 
 
