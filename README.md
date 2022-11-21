@@ -24,9 +24,8 @@ This dashboard has some data fields that might be useful for taking apt business
 
 - Power BI
 
-
 ## Screenshot
 
-![App Screenshot](https://drive.google.com/file/d/1-IfUsiuGSIKF0nqE6dUQI0XqLb0_SET9/view)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1-IfUsiuGSIKF0nqE6dUQI0XqLb0_SET9)
 
 
